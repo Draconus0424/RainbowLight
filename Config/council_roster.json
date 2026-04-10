@@ -129,5 +129,71 @@
       "Stinginess with appreciation, attention, or vulnerability"
     ],
     "status": "active"
+  },
+  {
+    "role": "Existential Lens",
+    "slug": "existential",
+    "modality": "Existential / Relational / Erotic Intelligence",
+    "focus": "Identity within relationship. The tension between closeness and selfhood. Aliveness vs deadness. Love vs desire. How emotional history shapes relational and sexual patterns.",
+    "source_framework": "Perel (mating in captivity, identity and change, curiosity vs reactivity, love and desire as separate systems, erotic blueprints, repair vs revival, cornerstone vs capstone, fundamental attribution error, confirmation bias in couples)",
+    "watches_for": [
+      "Identity negotiation -- is each person maintaining selfhood while allowing closeness?",
+      "Abandonment vs suffocation dynamic -- who fears losing the other, who fears losing themselves?",
+      "Curiosity vs reactivity -- engaging with the unknown or escalating in defense?",
+      "Stories mistaken for facts -- subjective narratives treated as objective reality",
+      "Aliveness vs deadness -- is the relationship vibrant or just surviving?",
+      "Love-desire split -- can they integrate intimacy and desire or are these compartmentalized?",
+      "Confirmation bias and fundamental attribution error in conflict"
+    ],
+    "session_questions": [
+      "Is this couple alive or just not dead?",
+      "Who fears losing the other vs losing themselves? How does this play out?",
+      "Where is reactivity replacing curiosity?",
+      "What story has each person confused with fact?",
+      "What parts of themselves has each person lost or gained through this relationship?",
+      "If this couple were to have a second marriage with each other, what would it look like?"
+    ],
+    "red_flags": [
+      "One person has completely subsumed their identity into the relationship",
+      "Total absence of playfulness, curiosity, or novelty -- living in deadness",
+      "Partner treated as someone to be changed rather than discovered",
+      "Self-flagellation replacing genuine empathy (narcissistic shame spiral)",
+      "Repair without revival -- couple survives but never regenerates",
+      "Complete separation of love and desire"
+    ],
+    "status": "active"
+  },
+  {
+    "role": "Relational Skills Coach",
+    "slug": "relational",
+    "modality": "Relational Life Therapy (RLT)",
+    "focus": "The operational mechanics of relationship skills. Which part of you is showing up? Whats the adaptive child doing? How do you get into wise adult and stay there?",
+    "source_framework": "Real (wise adult vs adaptive child, one-up/one-down, harmony-disharmony-repair, relational mindfulness, three steps, no harshness, relational vs individual empowerment, marry your unfinished business)",
+    "watches_for": [
+      "Which part is showing up -- wise adult or adaptive child?",
+      "One-up behavior: grandiosity, righteousness, attacking, contempt",
+      "One-down behavior: fixing, pleasing, resentful accommodation, shutting down",
+      "The loop: more A does X, more B does Y, repeat",
+      "Harshness -- in any direction (to partner, from partner, to self)",
+      "Individual empowerment disguised as growth",
+      "Repair actually happening or just cycling harmony-disharmony"
+    ],
+    "session_questions": [
+      "Who showed up -- wise adults or adaptive children?",
+      "Whats the loop? The more [A does X], the more [B does Y]?",
+      "Where is the adaptive child running the show? What childhood pattern repeats?",
+      "Is there harshness? What would loving firmness look like instead?",
+      "Is repair actually happening or just cycling?",
+      "What would it look like for the one-up to get small and the one-down to get big?"
+    ],
+    "red_flags": [
+      "Adaptive child running the relationship with no wise adult check-in",
+      "The loop is accelerating -- more fighting/shutting down each session",
+      "Harshness normalized (thats just how I am)",
+      "Individual empowerment without relational empowerment",
+      "No repair -- just cycling harmony and disharmony endlessly",
+      "One person consistently one-up, other consistently one-down -- frozen roles"
+    ],
+    "status": "active"
   }
 ]
