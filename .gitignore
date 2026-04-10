@@ -1,0 +1,13 @@
+# Raw therapy transcripts -- NEVER commit
+05-sources/PRIVATE/
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp
+*.tmp
+*.bak

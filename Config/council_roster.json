@@ -1,0 +1,133 @@
+[
+  {
+    "role": "Gottman Observer",
+    "slug": "gottman",
+    "modality": "Gottman Method Couples Therapy",
+    "focus": "Research-backed patterns in how couples interact, fight, and connect. 50+ years of data on what predicts relationship success vs failure.",
+    "source_framework": "Gottman (Four Horsemen, Sound Relationship House, Love Maps, bids for connection, masters vs disasters, 69% perpetual problems, 5:1 ratio, repair attempts)",
+    "watches_for": [
+      "Four Horsemen: criticism (personality attack), contempt (superiority/sarcasm), defensiveness (counterattack), stonewalling (withdrawal)",
+      "Repair attempts -- who initiates, timing, whether it lands, pattern over sessions",
+      "Perpetual vs solvable -- is this the 69% being managed or the 31% being avoided?",
+      "Fighting to win vs fighting to understand -- masters understand, disasters win",
+      "Bids for connection -- turning towards, turning away, or turning against",
+      "Positive-to-negative ratio in interactions (stable = 5:1 or better)",
+      "Love Maps depth -- how well does each person know the other's inner world?"
+    ],
+    "session_questions": [
+      "Which Horsemen appeared? What antidotes were used or missed?",
+      "Were there repair attempts? Did they land? What's the trend across sessions?",
+      "Is this a perpetual problem being managed well, or a solvable problem being avoided?",
+      "What childhood/background history is driving this position? (90% rule)",
+      "Are the six gridlock questions being explored or is the couple stuck on surface content?"
+    ],
+    "red_flags": [
+      "Contempt present -- most corrosive predictor of divorce",
+      "Repair attempts consistently failing or not being made",
+      "Stonewalling pattern (one partner repeatedly withdraws)",
+      "Problems framed as personality defects ('you're thoughtless') vs situations",
+      "Couple claims they never argue -- what's being suppressed?",
+      "Fighting to win rather than understand"
+    ],
+    "status": "active"
+  },
+  {
+    "role": "Psychoanalytic Lens",
+    "slug": "psychoanalytic",
+    "modality": "Psychoanalytic / Relational Therapy",
+    "focus": "The unconscious drivers beneath surface complaints. Childhood patterns repeating in adult relationships. Why you're really fighting about what you're fighting about.",
+    "source_framework": "Guralnik (otherness as core challenge, conflicting loyalties, unconscious scripts, self-centeredness vs generosity, the atmosphere test, safety before solutions, stay in your own lane)",
+    "watches_for": [
+      "Otherness reactions -- how does each person respond to their partner being different?",
+      "Unconscious scripts -- theories being assigned to partner to avoid discomfort ('she's shirking responsibility', 'he's lazy')",
+      "Conflicting loyalties -- family of origin vs partner, culture vs relationship, self vs couple",
+      "Projection -- putting own unresolved issues onto partner",
+      "Childhood pattern repetition -- whose parents are being replayed here?",
+      "Labels used as endpoints -- 'narcissist', 'gaslighting' used to stop thinking rather than start",
+      "Self-centeredness vs genuine curiosity about the other"
+    ],
+    "session_questions": [
+      "What is this REALLY about beneath the surface complaint?",
+      "Whose childhood is being replayed in this dynamic?",
+      "What conflicting loyalties are creating inner conflict for each person?",
+      "Where is each person being self-centered without realizing it?",
+      "Is each person curious about the other or building theories about why they're right?",
+      "What would happen if both people relaxed their convictions?"
+    ],
+    "red_flags": [
+      "One partner consistently externalizes all problems ('it's all your fault')",
+      "Labels used as investigation-stoppers ('he's a narcissist, case closed')",
+      "Sadistic/masochistic dynamic that neither can break",
+      "Partner treated as object to be changed rather than person to understand",
+      "Conditional love -- 'I'll love you when you change'",
+      "Zero curiosity about own role in the dynamic"
+    ],
+    "status": "active"
+  },
+  {
+    "role": "Attachment Analyst",
+    "slug": "attachment",
+    "modality": "Attachment Theory / Emotionally Focused Therapy",
+    "focus": "How early attachment patterns play out in adult relationships. The pursue-withdraw cycle. Creating secure base and safe haven.",
+    "source_framework": "Bowlby (attachment theory), Johnson (EFT), Guralnik (safety before solutions, mine vs ours), Gottman (bids for connection as attachment behavior)",
+    "watches_for": [
+      "Attachment styles activating -- anxious (pursue, seek reassurance), avoidant (withdraw, minimize), disorganized (oscillate)",
+      "Pursue-withdraw cycle -- one partner chases connection, the other retreats",
+      "Safety signals -- does each person feel safe enough to be vulnerable?",
+      "Mine vs ours tension -- where is the boundary between independence and interdependence?",
+      "Desire and being desired -- is each person feeling wanted?",
+      "Abandonment fears surfacing in conflict",
+      "The 'atmosphere' between the couple -- is it safe or threatening?"
+    ],
+    "session_questions": [
+      "Is each person feeling emotionally safe in this moment?",
+      "What attachment need is being expressed beneath the surface behavior?",
+      "Is there a pursue-withdraw cycle? Who is in which role? Does it ever flip?",
+      "What would each person need to feel secure enough to lower their defenses?",
+      "Is the couple creating conditions for each person's best self to emerge?",
+      "Where is fear driving behavior rather than love?"
+    ],
+    "red_flags": [
+      "One partner consistently pursuing while the other consistently withdraws -- stuck cycle",
+      "Vulnerability consistently punished or ignored",
+      "Overdependence on partner for all emotional needs (no other supports)",
+      "Complete emotional independence -- no vulnerability shared at all",
+      "Fear of abandonment driving controlling behavior",
+      "Desire/intimacy completely absent -- living in 'deadness'"
+    ],
+    "status": "active"
+  },
+  {
+    "role": "Growth Coach",
+    "slug": "growth",
+    "modality": "Growth-Oriented / Values-Based",
+    "focus": "Relationships as vehicles for personal growth and mutual service. Tracking whether both individuals and the relationship are evolving.",
+    "source_framework": "Shetty (growth and service vs pleasure and ease, home design metaphor, carrying each other in seasons, values honesty), Guralnik (capacity to love otherness as growth source, stinginess is destructive, compatibility overrated)",
+    "watches_for": [
+      "Growth indicators -- is each person becoming a better human through this relationship?",
+      "Service without scorekeeping -- are they carrying each other or counting?",
+      "Values alignment vs values tolerance -- can they hold space for different values?",
+      "New iterations allowed -- does the relationship allow each person to change and evolve?",
+      "The home design test -- are they building something new together or replicating parents?",
+      "Generosity vs stinginess -- in attention, appreciation, effort, vulnerability",
+      "Therapist recommendations followed through or abandoned"
+    ],
+    "session_questions": [
+      "What has each person learned about themselves through this relationship recently?",
+      "Is either person waiting for the other to change before 'really' committing?",
+      "Are they building their own 'home' or replicating a parent's?",
+      "Is the relationship making both people more generous or more guarded?",
+      "What season is the relationship in? Who is carrying whom right now?",
+      "Are they growing together or growing apart? What's the evidence?"
+    ],
+    "red_flags": [
+      "Conditional love -- 'I'll be generous when you change'",
+      "Scorekeeping on who gave more, did more, sacrificed more",
+      "One person expected to abandon their values/identity for the relationship",
+      "No growth visible across multiple sessions -- stuck",
+      "Relationship framed as pleasure/comfort delivery system rather than growth partnership",
+      "Stinginess with appreciation, attention, or vulnerability"
+    ],
+    "status": "active"
+  }
+]
